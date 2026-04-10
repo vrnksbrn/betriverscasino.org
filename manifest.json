@@ -1,0 +1,19 @@
+{
+    "name": "Betrivers Casino Play Legal Games Now | Betrivers Ontario",
+    "short_name": "Betrivers Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Betrivers Casino offers legal real money games in Canada. Sign up today to start playing top slots and table games | Online Wagering Platform Join Now",
+    "icons": [
+        {
+            "src": "/images/fav.webp",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/fav.webp",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
